@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamurdev
 - 👀 I'm interested in front-end development and cybersecurity:
-- 🌱 I’m currently working as front-end dev;
+- 🌱 I’m currently working as a front-end dev;
 - 💞️ I’m looking to collaborate on projects based on VueJS;
 - 📫 How to reach me: mamur.dev@gmail.com
 
