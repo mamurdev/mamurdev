@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamurdev
-- 👀 I’m mostly interested in ethical hacking and IoT.
-- 🌱 I’m currently learning Front-end Development.
-- 💞️ I’m looking to collaborate on projects based on VueJS
+- 👀 I'm interested in front-end development and cybersecurity:
+- 🌱 I’m currently working as front-end dev;
+- 💞️ I’m looking to collaborate on projects based on VueJS;
 - 📫 How to reach me: mamur.dev@gmail.com
 
 <!---
